@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Amirthajayabal/code-practice/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
