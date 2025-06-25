@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amirthajayabal/code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Amirthajayabal/code-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Amirthajayabal/code-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amirthajayabal/code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Amirthajayabal/code-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Amirthajayabal/code-practice/tree/master/0242-valid-anagram) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amirthajayabal/code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
