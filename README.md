@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Amirthajayabal/code-practice/tree/master/0279-perfect-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amirthajayabal/code-practice/tree/master/0042-trapping-rain-water) |
+| [0279-perfect-squares](https://github.com/Amirthajayabal/code-practice/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amirthajayabal/code-practice/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Amirthajayabal/code-practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
