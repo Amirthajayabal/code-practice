@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amirthajayabal/code-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 | [0978-valid-mountain-array](https://github.com/Amirthajayabal/code-practice/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Amirthajayabal/code-practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Amirthajayabal/code-practice/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Amirthajayabal/code-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amirthajayabal/code-practice/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
