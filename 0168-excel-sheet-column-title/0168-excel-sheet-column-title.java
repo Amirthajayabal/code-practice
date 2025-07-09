@@ -1,20 +1,13 @@
 class Solution {
-    public String convertToTitle(int columnNumber) {
-         ArrayList<Character> titleList = new ArrayList<>();
-        
-        while (columnNumber > 0) {
-            columnNumber--; 
-            int remainder = columnNumber % 26;
-            char letter = (char) ('A' + remainder);
-            titleList.add(letter);
-            columnNumber = columnNumber / 26;
+    public String convertToTitle(int n) {
+        String res="";
+        while(n>0){
+            n--;
+            int d=n%26;
+            char c=(char)('A'+d);
+             res=c+res;
+             n/=26;
         }
-        Collections.reverse(titleList);
-        StringBuilder result = new StringBuilder();
-        for (char c : titleList) {
-            result.append(c);
-        }
-        
-        return result.toString();
+        return res;
     }
 }
