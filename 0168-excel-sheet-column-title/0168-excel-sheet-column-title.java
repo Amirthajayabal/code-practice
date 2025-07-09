@@ -3,7 +3,7 @@ class Solution {
          ArrayList<Character> titleList = new ArrayList<>();
         
         while (columnNumber > 0) {
-            columnNumber--; // adjust to 0-based index
+            columnNumber--; 
             int remainder = columnNumber % 26;
             char letter = (char) ('A' + remainder);
             titleList.add(letter);
