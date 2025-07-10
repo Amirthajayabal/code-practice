@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirthajayabal/code-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amirthajayabal/code-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Amirthajayabal/code-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amirthajayabal/code-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amirthajayabal/code-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amirthajayabal/code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Amirthajayabal/code-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amirthajayabal/code-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amirthajayabal/code-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amirthajayabal/code-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amirthajayabal/code-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Amirthajayabal/code-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amirthajayabal/code-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Amirthajayabal/code-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amirthajayabal/code-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
