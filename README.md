@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
 | [0978-valid-mountain-array](https://github.com/Amirthajayabal/code-practice/tree/master/0978-valid-mountain-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Amirthajayabal/code-practice/tree/master/1319-unique-number-of-occurrences) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amirthajayabal/code-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
+| [1319-unique-number-of-occurrences](https://github.com/Amirthajayabal/code-practice/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
