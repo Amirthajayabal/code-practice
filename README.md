@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Amirthajayabal/code-practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Amirthajayabal/code-practice/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Amirthajayabal/code-practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Amirthajayabal/code-practice/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Amirthajayabal/code-practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Amirthajayabal/code-practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Amirthajayabal/code-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 ## Simulation
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amirthajayabal/code-practice/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/Amirthajayabal/code-practice/tree/master/0089-gray-code) |
 ## Brainteaser
 |  |
 | ------- |
