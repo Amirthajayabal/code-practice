@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Amirthajayabal/code-practice/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/Amirthajayabal/code-practice/tree/master/0279-perfect-squares) |
 ## Matrix
 |  |
@@ -178,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Amirthajayabal/code-practice/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Amirthajayabal/code-practice/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Amirthajayabal/code-practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
