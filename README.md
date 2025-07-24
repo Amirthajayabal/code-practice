@@ -194,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Amirthajayabal/code-practice/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Amirthajayabal/code-practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
