@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Amirthajayabal/code-practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Amirthajayabal/code-practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Amirthajayabal/code-practice/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Amirthajayabal/code-practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Amirthajayabal/code-practice/tree/master/0171-excel-sheet-column-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Amirthajayabal/code-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Amirthajayabal/code-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Amirthajayabal/code-practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Amirthajayabal/code-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirthajayabal/code-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amirthajayabal/code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/Amirthajayabal/code-practice/tree/master/0279-perfect-squares) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Amirthajayabal/code-practice/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Amirthajayabal/code-practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Amirthajayabal/code-practice/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amirthajayabal/code-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
