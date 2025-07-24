@@ -199,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Amirthajayabal/code-practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Amirthajayabal/code-practice/tree/master/0595-big-countries) |
+| [1827-invalid-tweets](https://github.com/Amirthajayabal/code-practice/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
