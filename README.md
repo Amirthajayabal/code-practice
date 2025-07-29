@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
 | [0978-valid-mountain-array](https://github.com/Amirthajayabal/code-practice/tree/master/0978-valid-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Amirthajayabal/code-practice/tree/master/1319-unique-number-of-occurrences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0290-word-pattern) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Amirthajayabal/code-practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
