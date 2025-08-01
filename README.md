@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Amirthajayabal/code-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/Amirthajayabal/code-practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0415-add-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Amirthajayabal/code-practice/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Amirthajayabal/code-practice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Amirthajayabal/code-practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amirthajayabal/code-practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Amirthajayabal/code-practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
