@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Amirthajayabal/code-practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Amirthajayabal/code-practice/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Amirthajayabal/code-practice/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amirthajayabal/code-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Amirthajayabal/code-practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Amirthajayabal/code-practice/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
