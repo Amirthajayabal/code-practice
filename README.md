@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Amirthajayabal/code-practice/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Amirthajayabal/code-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Amirthajayabal/code-practice/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amirthajayabal/code-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Amirthajayabal/code-practice/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
