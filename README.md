@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amirthajayabal/code-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Amirthajayabal/code-practice/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Amirthajayabal/code-practice/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/Amirthajayabal/code-practice/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
 | [0978-valid-mountain-array](https://github.com/Amirthajayabal/code-practice/tree/master/0978-valid-mountain-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amirthajayabal/code-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amirthajayabal/code-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Amirthajayabal/code-practice/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Amirthajayabal/code-practice/tree/master/0645-set-mismatch) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/Amirthajayabal/code-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amirthajayabal/code-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/Amirthajayabal/code-practice/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amirthajayabal/code-practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Amirthajayabal/code-practice/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Amirthajayabal/code-practice/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Amirthajayabal/code-practice/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
