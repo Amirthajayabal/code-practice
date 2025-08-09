@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Amirthajayabal/code-practice/tree/master/0504-base-7) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Amirthajayabal/code-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Amirthajayabal/code-practice/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Amirthajayabal/code-practice/tree/master/1642-water-bottles) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Amirthajayabal/code-practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Amirthajayabal/code-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0415-add-strings) |
+| [1642-water-bottles](https://github.com/Amirthajayabal/code-practice/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
