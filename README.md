@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Amirthajayabal/code-practice/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Amirthajayabal/code-practice/tree/master/0504-base-7) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Amirthajayabal/code-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Amirthajayabal/code-practice/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Amirthajayabal/code-practice/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Amirthajayabal/code-practice/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
+| [1448-maximum-69-number](https://github.com/Amirthajayabal/code-practice/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
