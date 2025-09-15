@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Amirthajayabal/code-practice/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Amirthajayabal/code-practice/tree/master/0645-set-mismatch) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Amirthajayabal/code-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Amirthajayabal/code-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amirthajayabal/code-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Amirthajayabal/code-practice/tree/master/0504-base-7) |
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Amirthajayabal/code-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amirthajayabal/code-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
