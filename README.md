@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Amirthajayabal/code-practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Amirthajayabal/code-practice/tree/master/2571-find-the-pivot-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Amirthajayabal/code-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
