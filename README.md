@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Amirthajayabal/code-practice/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Amirthajayabal/code-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2630-alternating-digit-sum](https://github.com/Amirthajayabal/code-practice/tree/master/2630-alternating-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
