@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Amirthajayabal/code-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Amirthajayabal/code-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amirthajayabal/code-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amirthajayabal/code-practice/tree/master/0169-majority-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amirthajayabal/code-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
