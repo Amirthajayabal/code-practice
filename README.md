@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amirthajayabal/code-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Amirthajayabal/code-practice/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Amirthajayabal/code-practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Amirthajayabal/code-practice/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Amirthajayabal/code-practice/tree/master/1642-water-bottles) |
 | [2039-sum-game](https://github.com/Amirthajayabal/code-practice/tree/master/2039-sum-game) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Amirthajayabal/code-practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Binary Search
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/Amirthajayabal/code-practice/tree/master/1448-maximum-69-number) |
 | [2039-sum-game](https://github.com/Amirthajayabal/code-practice/tree/master/2039-sum-game) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Amirthajayabal/code-practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
