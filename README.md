@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Amirthajayabal/code-practice/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/Amirthajayabal/code-practice/tree/master/2039-sum-game) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Amirthajayabal/code-practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Amirthajayabal/code-practice/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2571-find-the-pivot-integer](https://github.com/Amirthajayabal/code-practice/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Amirthajayabal/code-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Amirthajayabal/code-practice/tree/master/2630-alternating-digit-sum) |
