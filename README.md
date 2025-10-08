@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Amirthajayabal/code-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Amirthajayabal/code-practice/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Amirthajayabal/code-practice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Amirthajayabal/code-practice/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Amirthajayabal/code-practice/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Tree
 |  |
 | ------- |
