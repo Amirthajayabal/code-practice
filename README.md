@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Amirthajayabal/code-practice/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Amirthajayabal/code-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Amirthajayabal/code-practice/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Amirthajayabal/code-practice/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Amirthajayabal/code-practice/tree/master/2630-alternating-digit-sum) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Amirthajayabal/code-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
