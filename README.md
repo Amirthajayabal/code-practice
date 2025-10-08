@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Amirthajayabal/code-practice/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Amirthajayabal/code-practice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/Amirthajayabal/code-practice/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Amirthajayabal/code-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Amirthajayabal/code-practice/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -348,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Amirthajayabal/code-practice/tree/master/2571-find-the-pivot-integer) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
