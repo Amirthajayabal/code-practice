@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2039-sum-game](https://github.com/Amirthajayabal/code-practice/tree/master/2039-sum-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amirthajayabal/code-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Amirthajayabal/code-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Amirthajayabal/code-practice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Amirthajayabal/code-practice/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Amirthajayabal/code-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Amirthajayabal/code-practice/tree/master/2571-find-the-pivot-integer) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
