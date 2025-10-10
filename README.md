@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Amirthajayabal/code-practice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
+| [3994-find-the-least-frequent-digit](https://github.com/Amirthajayabal/code-practice/tree/master/3994-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Amirthajayabal/code-practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amirthajayabal/code-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3994-find-the-least-frequent-digit](https://github.com/Amirthajayabal/code-practice/tree/master/3994-find-the-least-frequent-digit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Amirthajayabal/code-practice/tree/master/3817-maximum-containers-on-a-ship) |
+| [3994-find-the-least-frequent-digit](https://github.com/Amirthajayabal/code-practice/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Amirthajayabal/code-practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amirthajayabal/code-practice/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amirthajayabal/code-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amirthajayabal/code-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3994-find-the-least-frequent-digit](https://github.com/Amirthajayabal/code-practice/tree/master/3994-find-the-least-frequent-digit) |
 ## Backtracking
 |  |
 | ------- |
