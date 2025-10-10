@@ -9,10 +9,10 @@ class Solution {
         int minfreq=Integer.MAX_VALUE;
         int least=-1;
         for(int i=0;i<10;i++){
-            if(freq[i]>0 && freq[i]<minfreq){
-                minfreq=freq[i];
-                least=i;
-            }
+        if(freq[i]>0 && freq[i]<minfreq){
+            minfreq=freq[i];
+            least=i;
+        }
         }
         return least;
     }
