@@ -6,10 +6,10 @@ class Solution {
     }
     public int gcd(int a,int b){
         while(b!=0){
-            int ep=b;
+            int temp=b;
             b=a%b;
-            a=ep;
+            a=temp;
         }
-return a;
+        return a;
     }
 }
