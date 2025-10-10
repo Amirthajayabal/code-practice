@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Amirthajayabal/code-practice/tree/master/3817-maximum-containers-on-a-ship) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Amirthajayabal/code-practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Amirthajayabal/code-practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
 | ------- |
