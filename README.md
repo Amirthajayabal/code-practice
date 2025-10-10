@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Amirthajayabal/code-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Amirthajayabal/code-practice/tree/master/3817-maximum-containers-on-a-ship) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Amirthajayabal/code-practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3994-find-the-least-frequent-digit](https://github.com/Amirthajayabal/code-practice/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Amirthajayabal/code-practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
