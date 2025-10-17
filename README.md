@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0926-find-and-replace-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Amirthajayabal/code-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Amirthajayabal/code-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1970-sorting-the-sentence](https://github.com/Amirthajayabal/code-practice/tree/master/1970-sorting-the-sentence) |
 | [2039-sum-game](https://github.com/Amirthajayabal/code-practice/tree/master/2039-sum-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amirthajayabal/code-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amirthajayabal/code-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amirthajayabal/code-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Amirthajayabal/code-practice/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
+| [1970-sorting-the-sentence](https://github.com/Amirthajayabal/code-practice/tree/master/1970-sorting-the-sentence) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Amirthajayabal/code-practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Amirthajayabal/code-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
