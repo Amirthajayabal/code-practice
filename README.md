@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Amirthajayabal/code-practice/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Amirthajayabal/code-practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Amirthajayabal/code-practice/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Amirthajayabal/code-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Amirthajayabal/code-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amirthajayabal/code-practice/tree/master/0217-contains-duplicate) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amirthajayabal/code-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Amirthajayabal/code-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amirthajayabal/code-practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Amirthajayabal/code-practice/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Amirthajayabal/code-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amirthajayabal/code-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/Amirthajayabal/code-practice/tree/master/0917-boats-to-save-people) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amirthajayabal/code-practice/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Amirthajayabal/code-practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
