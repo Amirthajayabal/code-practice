@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amirthajayabal/code-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Amirthajayabal/code-practice/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/Amirthajayabal/code-practice/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Amirthajayabal/code-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Amirthajayabal/code-practice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Amirthajayabal/code-practice/tree/master/0504-base-7) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amirthajayabal/code-practice/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/Amirthajayabal/code-practice/tree/master/0394-decode-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Amirthajayabal/code-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amirthajayabal/code-practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Amirthajayabal/code-practice/tree/master/0010-regular-expression-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Amirthajayabal/code-practice/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/Amirthajayabal/code-practice/tree/master/0394-decode-string) |
 ## Queue
 |  |
 | ------- |
